@@ -1,27 +1,142 @@
-[
-	{
-		"text": "Superboy",
-		"description": "Kon-El, a young and brash hero with the power of tactile telekinesis.",
-		"descriptionMoreURL": "https://en.wikipedia.org/wiki/Superboy"
-	},
-	{
-		"text": "Superdog",
-		"description": "The superpowered canine also known as Krypto.",
-		"descriptionMoreURL": "https://en.wikipedia.org/wiki/Superboy"
-	},
-	{
-		"text": "Supergirl",
-		"description": "The Girl of Steel, Kara Zor-El. Cousin of Superman.",
-		"descriptionMoreURL": "https://en.wikipedia.org/wiki/Supergirl"
-	},
-	{
-		"text": "Superman",
-		"description": "The iconic hero of DC Comics. Survivor of Krypton, defender of Earth.",
-		"descriptionMoreURL": "https://en.wikipedia.org/wiki/Supergirl"
-	},
-	{
-		"text": "Superwoman",
-		"description": "Many characters have taken this title, including Lois Lane.",
-		"descriptionMoreURL": "https://en.wikipedia.org/wiki/Superwoman"
-	}
-]
+{
+  "label": {
+    "hex": "#000000ff",
+    "rgba": "rgba(0, 0, 0, 1.0)"
+  },
+  "secondaryLabel": {
+    "hex": "#3c3c4399",
+    "rgba": "rgba(60, 60, 67, 0.6)"
+  },
+  "tertiaryLabel": {
+    "hex": "#3c3c434c",
+    "rgba": "rgba(60, 60, 67, 0.3)"
+  },
+  "quaternaryLabel": {
+    "hex": "#3c3c432d",
+    "rgba": "rgba(60, 60, 67, 0.18)"
+  },
+  "systemFill": {
+    "hex": "#78788033",
+    "rgba": "rgba(120, 120, 128, 0.2)"
+  },
+  "secondarySystemFill": {
+    "hex": "#78788028",
+    "rgba": "rgba(120, 120, 128, 0.16)"
+  },
+  "tertiarySystemFill": {
+    "hex": "#7676801e",
+    "rgba": "rgba(118, 118, 128, 0.12)"
+  },
+  "quaternarySystemFill": {
+    "hex": "#74748014",
+    "rgba": "rgba(116, 116, 128, 0.08)"
+  },
+  "placeholderText": {
+    "hex": "#3c3c434c",
+    "rgba": "rgba(60, 60, 67, 0.3)"
+  },
+  "systemBackground": {
+    "hex": "#ffffffff",
+    "rgba": "rgba(255, 255, 255, 1.0)"
+  },
+  "secondarySystemBackground": {
+    "hex": "#f2f2f7ff",
+    "rgba": "rgba(242, 242, 247, 1.0)"
+  },
+  "tertiarySystemBackground": {
+    "hex": "#ffffffff",
+    "rgba": "rgba(255, 255, 255, 1.0)"
+  },
+  "systemGroupedBackground": {
+    "hex": "#f2f2f7ff",
+    "rgba": "rgba(242, 242, 247, 1.0)"
+  },
+  "secondarySystemGroupedBackground": {
+    "hex": "#ffffffff",
+    "rgba": "rgba(255, 255, 255, 1.0)"
+  },
+  "tertiarySystemGroupedBackground": {
+    "hex": "#f2f2f7ff",
+    "rgba": "rgba(242, 242, 247, 1.0)"
+  },
+  "separator": {
+    "hex": "#3c3c4349",
+    "rgba": "rgba(60, 60, 67, 0.29)"
+  },
+  "opaqueSeparator": {
+    "hex": "#c6c6c8ff",
+    "rgba": "rgba(198, 198, 200, 1.0)"
+  },
+  "link": {
+    "hex": "#007affff",
+    "rgba": "rgba(0, 122, 255, 1.0)"
+  },
+  "darkText": {
+    "hex": "#000000ff",
+    "rgba": "rgba(0, 0, 0, 1.0)"
+  },
+  "lightText": {
+    "hex": "#ffffff99",
+    "rgba": "rgba(255, 255, 255, 0.6)"
+  },
+  "systemBlue": {
+    "hex": "#007affff",
+    "rgba": "rgba(0, 122, 255, 1.0)"
+  },
+  "systemGreen": {
+    "hex": "#34c759ff",
+    "rgba": "rgba(52, 199, 89, 1.0)"
+  },
+  "systemIndigo": {
+    "hex": "#5856d6ff",
+    "rgba": "rgba(88, 86, 214, 1.0)"
+  },
+  "systemOrange": {
+    "hex": "#ff9500ff",
+    "rgba": "rgba(255, 149, 0, 1.0)"
+  },
+  "systemPink": {
+    "hex": "#ff2d55ff",
+    "rgba": "rgba(255, 45, 85, 1.0)"
+  },
+  "systemPurple": {
+    "hex": "#af52deff",
+    "rgba": "rgba(175, 82, 222, 1.0)"
+  },
+  "systemRed": {
+    "hex": "#ff3b30ff",
+    "rgba": "rgba(255, 59, 48, 1.0)"
+  },
+  "systemTeal": {
+    "hex": "#5ac8faff",
+    "rgba": "rgba(90, 200, 250, 1.0)"
+  },
+  "systemYellow": {
+    "hex": "#ffcc00ff",
+    "rgba": "rgba(255, 204, 0, 1.0)"
+  },
+  "systemGray": {
+    "hex": "#8e8e93ff",
+    "rgba": "rgba(142, 142, 147, 1.0)"
+  },
+  "systemGray2": {
+    "hex": "#aeaeb2ff",
+    "rgba": "rgba(174, 174, 178, 1.0)"
+  },
+  "systemGray3": {
+    "hex": "#c7c7ccff",
+    "rgba": "rgba(199, 199, 204, 1.0)"
+  },
+  "systemGray4": {
+    "hex": "#d1d1d6ff",
+    "rgba": "rgba(209, 209, 214, 1.0)"
+  },
+  "systemGray5": {
+    "hex": "#e5e5eaff",
+    "rgba": "rgba(229, 229, 234, 1.0)"
+  },
+  "systemGray6": {
+    "hex": "#f2f2f7ff",
+    "rgba": "rgba(242, 242, 247, 1.0)"
+  }
+}
